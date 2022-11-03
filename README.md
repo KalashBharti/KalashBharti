@@ -2,9 +2,10 @@
  A Computer Science Engineer  🧑‍💻
  -
 ### 👀I’m interested in $web$ and $android$ $development$ <br>
-<b>🏫 *Deploma* in CSE <br>
- *Graduation* in <u>Computer Science Engineering</u>🎓</b>
+### 🏫 $Deploma$ <b>in CSE </b> <br>
+### $Graduation$ in <b>Computer Science Engineering</u>🎓</b>
 
- <b><i> 🔎  Searching for a *team* partner</i></b><br>
+ <b> 🔎  Searching for a</b> $Team$ $Partner$<br>
 >[ Linkedin Profile ](https://www.linkedin.com/in/kalash-bharti-31842a251/)<br>
+>[ Instagram ](https://www.instagram.com/kalashbharti26/)<br>
  📫  $Email$ me in  [kalashbharti2002@gmail.com](mailto:kalashbharti2002@gmail.com)
