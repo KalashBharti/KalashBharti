@@ -9,6 +9,7 @@
 >* Java
 >* Python
 >* Html, Css and Javascript
+>* React js ❤️
 >* Sql <br>
 
 <b>Looking for a challenging role in a reputable
