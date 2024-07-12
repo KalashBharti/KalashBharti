@@ -2,7 +2,7 @@
  A Computer Science Engineer  🧑‍💻
  -
 ### 👀I’m interested in $web$ and $android$ $development$ <br>
-### 🏫 $Deploma$ <b>in CSE </b>
+### 🏫 $Diploma$ <b>in CSE </b>
 ### 🎓 $Graduation$ in <b>Computer Science Engineering</u></b>
 ### I have Skills in <br>
 >* C/C++
